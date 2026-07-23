@@ -1,0 +1,23 @@
+{
+  "name": "ScanWise — A field guide to what you buy",
+  "short_name": "ScanWise",
+  "description": "Scan food and cosmetics for a transparent health score, itemized breakdown, and better alternatives.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
